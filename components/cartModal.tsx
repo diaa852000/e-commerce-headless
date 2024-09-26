@@ -38,31 +38,6 @@ export default function CartModal() {
                                 </div>
                             </div>
                         </div>
-                        <div className="flex gap-4">
-                            <Image
-                                src={'https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'}
-                                alt=""
-                                width={72}
-                                height={96}
-                                priority
-                                className="object-cover rounded-md w-[72px] h-[100px]"
-                            />
-                            <div className="flex flex-col  justify-between w-full">
-                                <div className="">
-                                    <div className="flex items-center justify-between gap-8">
-                                        <h3 className="font-semibold">Product Name</h3>
-                                        <div className="p-1 bg-gray-50 rounded-md">$49</div>
-                                    </div>
-                                    <div className="text-sm text-gray-500 text-wrap">
-                                        avialable
-                                    </div>
-                                </div>
-                                <div className="flex justify-between text-sm">
-                                    <span className="text-gray-500">Qty. 2</span>
-                                    <span className="text-blue-500">Remove</span>
-                                </div>
-                            </div>
-                        </div>
                     </div>
 
                     <div>
