@@ -1,5 +1,5 @@
-import CategoryList from "@/components/category-list";
-import ProductList from "@/components/product-list";
+import CategoryList from "@/components/lists/category-list";
+import ProductList from "@/components/lists/product-list";
 import Slider from "@/components/slider";
 
 export default function Home() {

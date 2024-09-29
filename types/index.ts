@@ -6,3 +6,7 @@ export interface Slide {
     url?: string;
     bg?: string;
 }
+
+export interface LogoProps {
+    image: boolean;
+}

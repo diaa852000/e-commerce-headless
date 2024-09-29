@@ -1,6 +1,6 @@
 "use client";
 
-import useNavbarLinks from "@/hooks/navbar-icons";
+import useNavbarLinks from "@/hooks/useNavbar-icons";
 import { Bell, CircleUser, ShoppingCart } from "lucide-react";
 import Link from "next/link";
 import CartModal from "../cartModal";
